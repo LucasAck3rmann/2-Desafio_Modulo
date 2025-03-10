@@ -106,7 +106,7 @@ The application implements an advanced responsive design system:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd 2-Desafio_Modulo
+   cd desafio-github
    ```
 3. Install dependencies:
    ```bash
